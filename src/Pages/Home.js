@@ -12,7 +12,7 @@ function Home() {
 
   return (
     <div style={bgStyle}>
-      <h1>🏠 Welcome to ShopEasy</h1>
+      <h1>🏠 Welcome to ShopEasy Shopping Web.</h1>
       <p>Explore our amazing products and offers!</p>
     </div>
   );
